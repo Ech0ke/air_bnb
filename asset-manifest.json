@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.39ab46d9.css",
+    "main.js": "/react/static/js/main.737bcced.js",
+    "static/media/grid.png": "/react/static/media/grid.8f80300d4cddb242d9cd.png",
+    "static/media/catie.png": "/react/static/media/catie.e108ed74f50c02f9c03b.png",
+    "static/media/mountain-bike.png": "/react/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/react/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/logo.svg": "/react/static/media/logo.7af2ee95625e51c5e2c7723e075fe865.svg",
+    "index.html": "/react/index.html",
+    "main.39ab46d9.css.map": "/react/static/css/main.39ab46d9.css.map",
+    "main.737bcced.js.map": "/react/static/js/main.737bcced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39ab46d9.css",
+    "static/js/main.737bcced.js"
+  ]
+}
